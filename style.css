@@ -1,0 +1,40 @@
+
+h1{
+  text-align:center;
+}
+h2{
+  text-align:center;
+}
+body{
+  background:lightgrey;
+}
+#wrapper{
+margin:auto;
+}
+
+ul {
+  list-style:none;
+  padding-left:40px;  
+
+}
+a {
+  text-decoration:none;
+
+}
+li:focus{
+  background:darkgrey;
+}
+li:hover a{
+ 
+ color:lightgreen;
+}
+li:hover {
+
+  background-color:black;
+
+}
+ul li{
+
+  border-bottom: solid;
+  padding:1%;
+}
